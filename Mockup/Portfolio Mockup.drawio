@@ -1,0 +1,172 @@
+<mxfile host="app.diagrams.net" modified="2024-06-19T08:16:25.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="C_12ZgD4zKd4Ll6O-R6N" version="24.5.5" type="device" pages="5">
+  <diagram name="HomePage" id="utk8VUfCRMUkHmH_Az5v">
+    <mxGraphModel dx="704" dy="335" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xPsObROEQ5di2muLXH6R-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0D1B2A;" parent="1" vertex="1">
+          <mxGeometry x="199" y="42" width="600" height="609" as="geometry" />
+        </mxCell>
+        <mxCell id="xPsObROEQ5di2muLXH6R-5" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Soumyajit Bhattacharya&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="382.5" y="68.5" width="284" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xPsObROEQ5di2muLXH6R-6" value="&lt;h3&gt;&lt;font color=&quot;#ffffff&quot; face=&quot;Tahoma&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Power BI Developer&lt;/b&gt;&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="382.5" y="126" width="128.5" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="xPsObROEQ5di2muLXH6R-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;About me&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#ffffff&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#21E6C1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="237" y="207" width="251" height="410" as="geometry" />
+        </mxCell>
+        <UserObject label="Projects" link="data:page/id,loEBcbkthub8oBlaRpjr" id="xPsObROEQ5di2muLXH6R-8">
+          <mxCell style="rounded=1;fillColor=#1F4287;strokeColor=#21E6C1;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="629" y="267" width="122" height="32" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Certifications" link="data:page/id,UddkyoAGIMW9d3hW3Qm8" id="xPsObROEQ5di2muLXH6R-9">
+          <mxCell style="rounded=1;fillColor=#1F4287;strokeColor=#21E6C1;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="629" y="402" width="122" height="32" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Work Experience" link="data:page/id,VaZUbiXeXqTKvkn6lIhS" id="xPsObROEQ5di2muLXH6R-10">
+          <mxCell style="rounded=1;fillColor=#1F4287;strokeColor=#21E6C1;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="629" y="357" width="122" height="32" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Education" link="data:page/id,kV_yic3MdW66NUaqHQEU" id="xPsObROEQ5di2muLXH6R-11">
+          <mxCell style="rounded=1;fillColor=#1f4287;strokeColor=#21e6c1;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="1" vertex="1">
+            <mxGeometry x="629" y="312" width="122" height="32" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8tJQDIVC4b7BR69xBy_A-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.instagram;fillColor=#6FC0E4;gradientColor=#1E305B" vertex="1" parent="1">
+          <mxGeometry x="423" y="344" width="16.6" height="16.6" as="geometry" />
+        </mxCell>
+        <mxCell id="8tJQDIVC4b7BR69xBy_A-2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.linkedin;fillColor=#0095DB;gradientColor=#006391" vertex="1" parent="1">
+          <mxGeometry x="449" y="344.4" width="16.2" height="16.2" as="geometry" />
+        </mxCell>
+        <mxCell id="8tJQDIVC4b7BR69xBy_A-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/target_job_seeker_employee_unemployee_work-128.png" vertex="1" parent="1">
+          <mxGeometry x="237" y="58.5" width="133" height="133" as="geometry" />
+        </mxCell>
+        <mxCell id="8tJQDIVC4b7BR69xBy_A-7" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+          <mxGeometry x="398" y="344.6" width="16" height="16" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="loEBcbkthub8oBlaRpjr" name="Projects">
+    <mxGraphModel dx="683" dy="-75" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fY07BOIRYfo2uG4jZFnV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0D1B2A;" vertex="1" parent="1">
+          <mxGeometry x="199" y="683" width="600" height="642" as="geometry" />
+        </mxCell>
+        <mxCell id="fY07BOIRYfo2uG4jZFnV-2" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Projects&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="271.55" y="702.25" width="117" height="43.5" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,utk8VUfCRMUkHmH_Az5v" id="fY07BOIRYfo2uG4jZFnV-3">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#21E6C1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home_page;fillColor=#2072B8;" vertex="1" parent="1">
+            <mxGeometry x="216.39" y="702.25" width="55.16" height="44.75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fY07BOIRYfo2uG4jZFnV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="772" width="295" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="fY07BOIRYfo2uG4jZFnV-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;Individual Performance Homepage&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#ffffff&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="772" width="261" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="fY07BOIRYfo2uG4jZFnV-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="956" width="295" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="fY07BOIRYfo2uG4jZFnV-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;Recieved Assessment &lt;br&gt;Report&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#ffffff&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="956" width="261" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="fY07BOIRYfo2uG4jZFnV-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213" y="1143" width="295" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="fY07BOIRYfo2uG4jZFnV-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;#ffffff&quot;&gt;Client Task Hours &lt;br&gt;Report&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#ffffff&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1143" width="261" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="fY07BOIRYfo2uG4jZFnV-10" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#21E6C1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271.55" y="747" as="sourcePoint" />
+            <mxPoint x="515.55" y="747" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VaZUbiXeXqTKvkn6lIhS" name="WorkExperience">
+    <mxGraphModel dx="509" dy="-958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vNmGhKiSlQXINU51XMPn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0D1B2A;" vertex="1" parent="1">
+          <mxGeometry x="199" y="1341" width="600" height="642" as="geometry" />
+        </mxCell>
+        <mxCell id="vNmGhKiSlQXINU51XMPn-2" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Work Experience&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="271.55" y="1360.25" width="217.45" height="43.5" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,utk8VUfCRMUkHmH_Az5v" id="vNmGhKiSlQXINU51XMPn-3">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#21E6C1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home_page;fillColor=#2072B8;" vertex="1" parent="1">
+            <mxGeometry x="216.39" y="1360.25" width="55.16" height="44.75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="vNmGhKiSlQXINU51XMPn-4" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#21E6C1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271.55" y="1405" as="sourcePoint" />
+            <mxPoint x="515.55" y="1405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kV_yic3MdW66NUaqHQEU" name="Education">
+    <mxGraphModel dx="683" dy="-875" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sLHh4Rc4Q7Pv5VlUlWQb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0D1B2A;" vertex="1" parent="1">
+          <mxGeometry x="199" y="1341" width="600" height="642" as="geometry" />
+        </mxCell>
+        <mxCell id="sLHh4Rc4Q7Pv5VlUlWQb-2" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Education&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="271.55" y="1360.25" width="146.45" height="43.5" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,utk8VUfCRMUkHmH_Az5v" id="sLHh4Rc4Q7Pv5VlUlWQb-3">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#21E6C1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home_page;fillColor=#2072B8;" vertex="1" parent="1">
+            <mxGeometry x="216.39" y="1360.25" width="55.16" height="44.75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="sLHh4Rc4Q7Pv5VlUlWQb-4" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#21E6C1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271.55" y="1405" as="sourcePoint" />
+            <mxPoint x="515.55" y="1405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UddkyoAGIMW9d3hW3Qm8" name="Certification">
+    <mxGraphModel dx="509" dy="-958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eAiATT1sU1oulIehUlZC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0D1B2A;" vertex="1" parent="1">
+          <mxGeometry x="199" y="1341" width="600" height="642" as="geometry" />
+        </mxCell>
+        <mxCell id="eAiATT1sU1oulIehUlZC-2" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Certification&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="271.55" y="1360.25" width="159.45" height="43.5" as="geometry" />
+        </mxCell>
+        <UserObject label="" link="data:page/id,utk8VUfCRMUkHmH_Az5v" id="eAiATT1sU1oulIehUlZC-3">
+          <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#21E6C1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home_page;fillColor=#2072B8;" vertex="1" parent="1">
+            <mxGeometry x="216.39" y="1360.25" width="55.16" height="44.75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="eAiATT1sU1oulIehUlZC-4" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#21E6C1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271.55" y="1405" as="sourcePoint" />
+            <mxPoint x="515.55" y="1405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
