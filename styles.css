@@ -19,6 +19,7 @@ body {
 
 .profile-header {
     margin-bottom: 20px;
+    position: fixed;
 }
 
 .profile-img {
